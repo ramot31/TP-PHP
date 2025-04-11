@@ -1,0 +1,14 @@
+nav
+{
+    background:linear-gradient(135deg, #007bff, #00b4d8);
+}
+
+nav a 
+{
+    transition:opacity 0.2s;
+}
+
+nav a:hover 
+{
+    opacity:0.8;
+}
